@@ -1,2 +1,5 @@
 # DIO-Desafio-Carrefour
-Desafio de projeto soobre Git/Github
+Desafio de projeto sobre Git/Github
+
+##links uteis:
+[Sintaxe basica Markdow](https://www.markdownguide.org/)
